@@ -26,7 +26,7 @@ export default function MenuSection({ items, title, subtitle, totalPrice, totalL
 
       {/* Botanical side decoration */}
       <div className="menu-section__side-botanical">
-        <img src="images/botanical-decoration.png" alt="" aria-hidden="true" />
+        <img src={`${import.meta.env.BASE_URL}images/botanical-decoration.png`} alt="" aria-hidden="true" />
       </div>
 
       {/* Menu items grid */}

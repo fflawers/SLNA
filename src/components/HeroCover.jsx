@@ -15,16 +15,16 @@ export default function HeroCover({ onExplore, lang, t }) {
       <div className="hero-bg-pattern" />
       
       <div className="hero-botanical hero-botanical--top-right">
-        <img src="images/botanical-decoration.png" alt="" aria-hidden="true" />
+        <img src={`${import.meta.env.BASE_URL}images/botanical-decoration.png`} alt="" aria-hidden="true" />
       </div>
       
       <div className="hero-botanical hero-botanical--bottom-left">
-        <img src="images/botanical-decoration.png" alt="" aria-hidden="true" />
+        <img src={`${import.meta.env.BASE_URL}images/botanical-decoration.png`} alt="" aria-hidden="true" />
       </div>
 
       <div className={`hero-content ${loaded ? 'hero-content--visible' : ''}`}>
         <div className="hero-flower">
-          <img src="images/gardenia-flower.png" alt="Gardenia" />
+          <img src={`${import.meta.env.BASE_URL}images/gardenia-flower.png`} alt="Gardenia" />
         </div>
         
         <div className="hero-divider hero-divider--top" />
