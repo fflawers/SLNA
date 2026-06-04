@@ -54,7 +54,7 @@ export default function Footer({ t }) {
         </div>
 
         <div className="footer__address">
-          <p>Made by {'FFG && SLNA'}
+          <p>Made by {'FFG && LSNA'}
           </p>
         </div>
 
