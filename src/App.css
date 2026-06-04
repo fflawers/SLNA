@@ -1,0 +1,19 @@
+/* ============================================
+   App Layout
+   ============================================ */
+
+.app {
+  min-height: 100vh;
+  min-height: 100dvh;
+  background: var(--color-cream);
+}
+
+.menu-anchor {
+  position: relative;
+  scroll-margin-top: 0;
+}
+
+/* Smooth transition when switching menus */
+#main-content {
+  animation: fadeIn 0.4s ease forwards;
+}
