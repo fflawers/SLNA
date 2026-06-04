@@ -6,7 +6,7 @@ export default function Footer({ t }) {
   return (
     <footer id="footer" className="footer">
       <div className="footer__botanical">
-        <img src="/images/botanical-decoration.png" alt="" aria-hidden="true" />
+        <img src="images/botanical-decoration.png" alt="" aria-hidden="true" />
       </div>
 
       <div className="footer__content">

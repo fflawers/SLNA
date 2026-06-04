@@ -66,7 +66,7 @@ export const menuItems = [
     priceMaridaje: "$180",
     priceDegustacion: "$95",
     weight: "65GR",
-    image: "/images/rosa-lichi.png",
+    image: "images/rosa-lichi.png",
     description: {
       es: "Macaron de rosa damascena y lichi",
       en: "Damascus rose and lychee macaron",
@@ -87,7 +87,7 @@ export const menuItems = [
     priceMaridaje: "$215",
     priceDegustacion: "$145",
     weight: "60GR",
-    image: "/images/lavanda-limon.png",
+    image: "images/lavanda-limon.png",
     description: {
       es: "Mousse de miel de lavanda",
       en: "Lavender honey mousse",
@@ -114,7 +114,7 @@ export const menuItems = [
     priceMaridaje: "$315",
     priceDegustacion: "$175",
     weight: "70GR",
-    image: "/images/cheesecake-azahar.png",
+    image: "images/cheesecake-azahar.png",
     description: {
       es: "Cheesecake artesanal",
       en: "Artisan cheesecake",
@@ -138,7 +138,7 @@ export const menuItems = [
     priceMaridaje: "$345",
     priceDegustacion: "$195",
     weight: "80GR",
-    image: "/images/granite-sauco.png",
+    image: "images/granite-sauco.png",
     description: {
       es: "Granité refrescante",
       en: "Refreshing granité",
@@ -159,7 +159,7 @@ export const menuItems = [
     priceMaridaje: "$525",
     priceDegustacion: "$295",
     weight: "110GR",
-    image: "/images/entremet-jazmin.png",
+    image: "images/entremet-jazmin.png",
     description: {
       es: "Entremet de jazmín",
       en: "Jasmine entremet",
@@ -180,7 +180,7 @@ export const menuItems = [
     priceMaridaje: "$195",
     priceDegustacion: "$115",
     weight: "35GR",
-    image: "/images/petit-fours.png",
+    image: "images/petit-fours.png",
     description: {
       es: "Selección botánica",
       en: "Botanical selection",
