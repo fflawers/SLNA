@@ -208,6 +208,6 @@ export const menuItems = [
 ];
 
 export const totalPrices = {
-  maridaje: "$1,700",
-  degustacion: "$1,000",
+  maridaje: "$1,500",
+  degustacion: "$900",
 };
