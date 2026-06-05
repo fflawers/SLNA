@@ -15,6 +15,7 @@ export const translations = {
     menuSubtitleMaridaje: "Con Maridaje",
     menuTitleDegustacion: "Menú Degustación",
     menuSubtitleDegustacion: "Sin Maridaje",
+    menuDescription: "En Gardenia, cada postre florece como una historia. Inspirados en la delicadeza de las flores y el arte de la alta repostería, creamos experiencias que transforman los momentos más simples en recuerdos inolvidables.",
     totalLabelMaridaje: "Degustación con Maridaje",
     totalLabelDegustacion: "Degustación Completa",
     perPerson: "pp",
@@ -25,6 +26,7 @@ export const translations = {
     // Footer
     footerNote: "Todos los precios incluyen IVA.\nLos platillos pueden contener alérgenos.\nConsulte con su mesero.",
     footerPpDisclaimer: "pp = precio por persona",
+    footerMoneyFormat: "Todos los precios se muestran en pesos mexicanos (MXN).",
     footerAddress: "Comisión Federal de Electricidad 1545, 50150 Toluca de Lerdo, Méx.",
     footerCopyright: "Gardenia Repostería Gourmet",
   },
@@ -44,6 +46,7 @@ export const translations = {
     menuSubtitleMaridaje: "With Pairing",
     menuTitleDegustacion: "Tasting Menu",
     menuSubtitleDegustacion: "Without Pairing",
+    menuDescription: "At Gardenia, every dessert blooms into a story. Inspired by the delicate beauty of flowers and the art of haute pâtisserie, we create experiences that transform life's simplest moments into unforgettable memories.",
     totalLabelMaridaje: "Tasting with Pairing",
     totalLabelDegustacion: "Complete Tasting",
     perPerson: "pp",
@@ -54,6 +57,7 @@ export const translations = {
     // Footer
     footerNote: "All prices include tax.\nDishes may contain allergens.\nPlease ask your server.",
     footerPpDisclaimer: "pp = price per person",
+    footerMoneyFormat: "All prices are shown in Mexican pesos (MXN).",
     footerAddress: "Comisión Federal de Electricidad 1545, 50150 Toluca de Lerdo, Méx.",
     footerCopyright: "Gardenia Gourmet Pâtisserie",
   },

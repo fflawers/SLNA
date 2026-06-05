@@ -22,6 +22,9 @@ export default function MenuSection({ items, title, subtitle, totalPrice, totalL
         </div>
         <h2 className="menu-section__title">{title}</h2>
         <p className="menu-section__subtitle">{subtitle}</p>
+        {t.menuDescription && (
+          <p className="menu-section__description">{t.menuDescription}</p>
+        )}
       </header>
 
       {/* Botanical side decoration */}
@@ -59,6 +62,11 @@ export default function MenuSection({ items, title, subtitle, totalPrice, totalL
           <span className="menu-section__total-line" />
         </div>
       </div>
+      {t.footerMoneyFormat && (
+        <p className="menu-section__total-label" style={{ textAlign: 'center', marginTop: '1.5rem' }}>
+          {t.footerMoneyFormat}
+        </p>
+      )}
     </section>
   );
 }
